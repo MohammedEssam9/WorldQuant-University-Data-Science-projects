@@ -1,0 +1,5 @@
+3. Air Quality in Nairobi:
+
+Develop an ARMA time-series model to predict particulate matter levels in Kenya.
+Retrieve data from a MongoDB database and perform time series data exploration.
+Tune hyperparameters for improved model performance.
