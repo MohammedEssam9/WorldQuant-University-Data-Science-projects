@@ -1,0 +1,5 @@
+2. Apartment Sales in Buenos Aires:
+
+Build a linear regression model to predict apartment prices in Argentina.
+Implement a machine learning pipeline with feature encoding and imputation.
+Visualize model coefficients and insights using Mapbox scatter plots and heatmaps.
