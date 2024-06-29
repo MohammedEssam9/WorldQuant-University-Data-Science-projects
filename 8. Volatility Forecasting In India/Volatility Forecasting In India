@@ -1,0 +1,4 @@
+8. Volatility Forecasting in India:
+Create a GARCH time series model to predict asset volatility.
+Retrieve data from web APIs and load it into a SQL database.
+Build a custom web API to serve model predictions.
