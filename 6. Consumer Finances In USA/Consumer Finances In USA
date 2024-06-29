@@ -1,0 +1,4 @@
+6. Customer Segmentation in the US:
+Employ k-means clustering to segment US consumers into distinct groups.
+Conduct exploratory data analysis and feature selection for clustering.
+Deploy a Dash web application for interactive visualization.
